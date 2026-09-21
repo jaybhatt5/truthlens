@@ -17,6 +17,7 @@
 ![Express](https://img.shields.io/badge/Express-4-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Google-Gemini_API-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
 
+[**Preview**](#-preview) ·
 [**Features**](#-features) ·
 [**How it works**](#-how-it-works) ·
 [**Getting started**](#-getting-started) ·
@@ -36,6 +37,71 @@
 - ✍️ **Detect** whether a piece of text was written by a human or an AI
 
 Analysis is powered by **Google Gemini** on the backend, combined with **forensic image analysis that runs directly in your browser**. Every result can be opened as a printable **audit certificate** and exported to PDF.
+
+---
+
+## 📸 Preview
+
+<div align="center">
+
+<img src="assets/screenshots/home.png" alt="TruthLens AI home page with claim verification search" width="100%" />
+
+<sub>The home screen: verify a claim, link, photo, video or piece of text from one search box.</sub>
+
+</div>
+
+<br />
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/deepfake-detector.png" alt="Deepfake and AI media detection suite" />
+      <br /><b>🕵️ Deepfake Detection Suite</b>
+      <br /><sub>Risk index, four-pillar breakdown and SynthID scan</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/news-media-verifier.png" alt="News photo and video truth verifier" />
+      <br /><b>📸 News Photo &amp; Video Verifier</b>
+      <br /><sub>OCR text extraction, truth score and visual integrity</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/ai-text-analyzer.png" alt="AI text content analyzer" />
+      <br /><b>🧠 AI Text Analyzer</b>
+      <br /><sub>Perplexity, burstiness and sentence-level risk</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/top-news.png" alt="Top verified news feed" />
+      <br /><b>✅ Verified News Feed</b>
+      <br /><sub>Truth-scored stories with highlights and sources</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/audit-certificate.png" alt="Fact-check audit certificate" />
+      <br /><b>🧾 Audit Certificate</b>
+      <br /><sub>Unique ID, QR code and Print / Save as PDF</sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="assets/screenshots/dashboard.png" alt="Analytics dashboard" />
+      <br /><b>📊 Analytics Dashboard</b>
+      <br /><sub>Platform stats and claims by topic</sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+<br />
+
+<img src="assets/screenshots/mobile.png" alt="TruthLens AI on a mobile phone" width="280" />
+
+<br />
+
+<sub><b>📱 Fully responsive</b> — the whole platform works on phones and tablets.</sub>
+
+</div>
 
 ---
 
@@ -186,6 +252,9 @@ truthlens-ai/
 ├── index.html                 # App shell
 ├── public/
 │   └── favicon.svg            # Shield logo
+├── assets/
+│   ├── logo.svg               # README logo
+│   └── screenshots/           # README preview images
 ├── src/
 │   ├── main.tsx               # React entry point
 │   ├── App.tsx                # State hub and tab routing
