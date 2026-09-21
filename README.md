@@ -315,6 +315,8 @@ Developed by:
 |---|---|
 | **Thakar Dhaval Ajaykumar** | Developer |
 | **Bhatt Jay Ashokkumar** | Developer |
+| **Mr. Gaurang Bhatt** | Mentor |
+| **Ms. Avni Gondaliya** | Mentor |
 
 🎓 BCA Semester 3 · **Shree Swaminarayan Gurukul College of Computer Science - Bhavnagar**
 
