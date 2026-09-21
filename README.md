@@ -313,10 +313,10 @@ Developed by:
 
 | Name | Role |
 |---|---|
-| **Thakar Dhaval** | Developer |
-| **Bhatt Jay** | Developer |
+| **Thakar Dhaval Ajaykumar** | Developer |
+| **Bhatt Jay Ashokkumar** | Developer |
 
-🎓 BCA Semester 3 · **Shree Swaminarayan College of Computer Science**
+🎓 BCA Semester 3 · **Shree Swaminarayan Gurukul College of Computer Science - Bhavnagar**
 
 ---
 
