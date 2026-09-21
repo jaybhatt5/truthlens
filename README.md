@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.svg" alt="TruthLens AI logo" width="130" />
+<img src="logo.svg" alt="TruthLens AI logo" width="130" />
 
 # TruthLens AI
 
