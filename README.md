@@ -44,7 +44,7 @@ Analysis is powered by **Google Gemini** on the backend, combined with **forensi
 
 <div align="center">
 
-<img src="assets/screenshots/home.png" alt="TruthLens AI home page with claim verification search" width="100%" />
+<img src="assets/home.png" alt="TruthLens AI home page with claim verification search" width="100%" />
 
 <sub>The home screen: verify a claim, link, photo, video or piece of text from one search box.</sub>
 
@@ -55,36 +55,36 @@ Analysis is powered by **Google Gemini** on the backend, combined with **forensi
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/screenshots/deepfake-detector.png" alt="Deepfake and AI media detection suite" />
+      <img src="assets/deepfake-detector.png" alt="Deepfake and AI media detection suite" />
       <br /><b>🕵️ Deepfake Detection Suite</b>
       <br /><sub>Risk index, four-pillar breakdown and SynthID scan</sub>
     </td>
     <td width="50%" align="center">
-      <img src="assets/screenshots/news-media-verifier.png" alt="News photo and video truth verifier" />
+      <img src="assets/news-media-verifier.png" alt="News photo and video truth verifier" />
       <br /><b>📸 News Photo &amp; Video Verifier</b>
       <br /><sub>OCR text extraction, truth score and visual integrity</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/screenshots/ai-text-analyzer.png" alt="AI text content analyzer" />
+      <img src="assets/ai-text-analyzer.png" alt="AI text content analyzer" />
       <br /><b>🧠 AI Text Analyzer</b>
       <br /><sub>Perplexity, burstiness and sentence-level risk</sub>
     </td>
     <td width="50%" align="center">
-      <img src="assets/screenshots/top-news.png" alt="Top verified news feed" />
+      <img src="assets/top-news.png" alt="Top verified news feed" />
       <br /><b>✅ Verified News Feed</b>
       <br /><sub>Truth-scored stories with highlights and sources</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="assets/screenshots/audit-certificate.png" alt="Fact-check audit certificate" />
+      <img src="assets/audit-certificate.png" alt="Fact-check audit certificate" />
       <br /><b>🧾 Audit Certificate</b>
       <br /><sub>Unique ID, QR code and Print / Save as PDF</sub>
     </td>
     <td width="50%" align="center">
-      <img src="assets/screenshots/dashboard.png" alt="Analytics dashboard" />
+      <img src="assets/dashboard.png" alt="Analytics dashboard" />
       <br /><b>📊 Analytics Dashboard</b>
       <br /><sub>Platform stats and claims by topic</sub>
     </td>
@@ -95,7 +95,7 @@ Analysis is powered by **Google Gemini** on the backend, combined with **forensi
 
 <br />
 
-<img src="assets/screenshots/mobile.png" alt="TruthLens AI on a mobile phone" width="280" />
+<img src="assets/mobile.png" alt="TruthLens AI on a mobile phone" width="280" />
 
 <br />
 
