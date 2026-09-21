@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en" class="scroll-smooth">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#020617" />
+    <meta name="description" content="TruthLens.AI - Multimodal Fact-Checking, Deepfake Detection, and AI Content Sentinel" />
+    <title>TruthLens.AI | Multimodal Fact-Checking & Deepfake Sentinel</title>
+  </head>
+  <body class="bg-slate-950 text-slate-100 antialiased min-h-screen overflow-x-hidden">
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+<script>
+  // This code runs automatically whenever anyone visits your Cloudflare link
+  console.log("============== 🚨 VISIT LOGGED 🚨 ==============");
+  console.log("Time Opened :", new Date().toLocaleTimeString());
+  console.log("Current URL :", window.location.href);
+  console.log("Device Info :", navigator.userAgent);
+  console.log("================================================");
+</script>
+<script>
+  const visitData = {
+    time: new Date().toLocaleTimeString(),
+    url: window.location.href,
+    device: navigator.userAgent
+  };
+
+  // 1. Log to the browser console (F12)
+  console.log("============== 🚨 VISIT LOGGED 🚨 ==============");
+  console.log("Time Opened :", visitData.time);
+  console.log("Current URL :", visitData.url);
+  console.log("Device Info :", visitData.device);
+  console.log("================================================");
+
+  // 2. Send it back to your local terminal via Vite's internal logger
+  fetch('/__log_visitor', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify(visitData)
+  }).catch(() => {/* Ignore local network errors */});
+</script>
+
+
+  </body>
+</html>
+
