@@ -62,7 +62,7 @@ Analysis is powered by **Google Gemini** on the backend, combined with **forensi
     <td width="50%" align="center">
       <img src="assets/screenshots/news-media-verifier.png" alt="News photo and video truth verifier" />
       <br /><b>📸 News Photo &amp; Video Verifier</b>
-      <br /><sub>OCR text extraction, truth score and visual integrity</sub>
+      <br /><sub>OCR(optical character recognition) text extraction, truth score and visual integrity</sub>
     </td>
   </tr>
   <tr>
